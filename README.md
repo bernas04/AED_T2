@@ -5,4 +5,4 @@
 Trabalho realizado por:
 * [Artur Romão](https://github.com/artur-romao)
 * [Mariana Rosa](https://github.com/marianarosa01)
-* João Farias
+* [João Farias](https://github.com/bernas04)
